@@ -14,9 +14,9 @@ return [
     ],
     'notices' => [
         'allocations_added' => 'Les allocations ont été ajoutées avec succès à ce nœud.',
-        'node_deleted' => 'Le noeud a été supprimé avec succès du panel.',
-        'location_required' => 'Vous devez avoir configuré au moins un emplacement avant de pouvoir ajouter un nœud à ce panel.',
-        'node_created' => 'Nouveau noeud créé avec succès. Vous pouvez configurer automatiquement le démon sur cette machine en visitant l\'onglet \'Configuration\'. <strong>Avant de pouvoir ajouter des serveurs, vous devez d\'abord allouer au moins une adresse IP et un port. </strong>',
+        'node_deleted' => 'La node a été supprimé avec succès du panel.',
+        'location_required' => 'Vous devez avoir configuré au moins un emplacement avant de pouvoir ajouter une node à ce panel.',
+        'node_created' => 'Nouvelle node créée avec succès. Vous pouvez configurer automatiquement le daemon sur cette machine en visitant l\'onglet \'Configuration\'. <strong>Avant de pouvoir ajouter des serveurs, vous devez d\'abord allouer au moins une adresse IP et un port. </strong>',
         'node_updated' => 'Les informations de noeud ont été mises à jour. Si des paramètres de démon ont été modifiés, vous devrez le redémarrer pour que ces modifications prennent effet.',
         'unallocated_deleted' => 'Suppresion de tous les ports non alloués pour l\'adresse <code>:ip</code>.',
     ],
